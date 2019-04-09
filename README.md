@@ -9,7 +9,7 @@ Golang utilities to manipulate structs
 
 ```
 import (
-    "github.com/WigWagCo/structmutate"
+    "github.com/armPelionEdge/structmutate"
     "fmt"
 )
 
